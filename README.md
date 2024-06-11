@@ -1,2 +1,1 @@
-# Intern-Assignment
-Chatbot that takes data taking user input based on user file
+This is a repository containing the code and example data of a chatbot created using OpenAI API key that reads the data appropriately based on the file extension, writes a python code for it (generally, although user prompt feature in the code is very versatile), and then executes the said Python code too. 
